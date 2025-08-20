@@ -1,0 +1,22 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "kde@apelletier.com",
+                "Name": "Alexandre Pelletier"
+            }
+        ],
+        "Category": "",
+        "Description": "Dark breeze colors and Sequoia plasma theme",
+        "Id": "org.kde.sequoia-breeze.dark.desktop",
+        "License": "LGPL 2.1",
+        "Name": "Sequoia Breeze Dark",
+        "Website": "https://github.com/apelletier82/kde-lookandfeel-sequoia.breeze"
+    },
+    "X-Plasma-APIVersion": "2",
+    "X-KPackage-Dependencies": [
+        "kns://plasma-themes.knsrc/api.kde-look.org/2170947",
+        "kns://icons.knsrc/api.kde-look.org/2297060"
+    ]
+}

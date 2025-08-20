@@ -1,0 +1,12 @@
+[kdeglobals][General]
+ColorScheme=BreezeDark
+
+[plasmarc][Theme]
+name=MacSequoia-Dark
+
+[kdeglobals][Icons]
+Theme=Pure-Dark
+
+[kwinrc][org.kde.kdecoration2]
+library=sierrabreezeenhanced
+theme=Sierra Breeze Enhanced
